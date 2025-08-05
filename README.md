@@ -14,7 +14,8 @@ This course examines the design of the hardware/software interface through the *
 * **_Multi-core Processors_**
 
 
-## Projects 
+## Projects
+
 1. Design of a Special-Purpose Processor for Solving a Maze using a Datapath and Finite State Machine Controller
 
 2.Design and Implementation of a Single-Cycle Datapath and Control Unit for a Subset of the RISC-V ISA
