@@ -16,10 +16,7 @@ This course examines the design of the hardware/software interface through the *
 
 ## Projects
 
-1. Design of a Special-Purpose Processor for Solving a Maze using a Datapath and Finite State Machine Controller
-
-2.Design and Implementation of a Single-Cycle Datapath and Control Unit for a Subset of the RISC-V ISA
-
-3.Design and Implementation of a Multi-Cycle Processor for a Custom Stack-Based ISA
-
-4.Implementing a 5-Stage Pipelined RISC-V Processor with Full Hazard Detection and Forwarding Logic
+1. Design of a Special-Purpose Processor for Solving a Maze using a Datapath and Finite State Machine Controller  
+2.Design and Implementation of a Single-Cycle Datapath and Control Unit for a Subset of the RISC-V ISA  
+3.Design and Implementation of a Multi-Cycle Processor for a Custom Stack-Based ISA  
+4.Implementing a 5-Stage Pipelined RISC-V Processor with Full Hazard Detection and Forwarding Logic  
